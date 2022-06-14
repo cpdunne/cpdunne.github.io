@@ -1,0 +1,19 @@
+Max value of: 100
+Merge sort time:  0.00022101402282714844
+Insertion sort time:  0.0002982616424560547
+Bubble sort time:  0.0005342960357666016
+
+Max value of: 1000
+Merge sort time:  0.0025904178619384766
+Insertion sort time:  0.053366899490356445
+Bubble sort time:  0.08009672164916992
+
+Max value of: 10000
+Merge sort time:  0.053391218185424805
+Insertion sort time:  3.496913194656372
+Bubble sort time:  7.615909576416016
+
+Max value of: 100000
+Merge sort time:  0.5564701557159424
+Insertion sort time:  410.4679825305939
+Bubble sort time:  1188.3239426612854
