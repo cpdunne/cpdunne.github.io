@@ -1,0 +1,5 @@
+Number of families: 21
+Total number of kids: 53
+Average number of kids per family: 2.52
+Maximum number of kids in a family: 7
+Minimum number of kids in a family: 1
