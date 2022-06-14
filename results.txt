@@ -1,4 +1,0 @@
-Number of people: 27
-Highest age: 100
-Lowest age: 38
-Average age: 79.96296296296296
